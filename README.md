@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **C++ and OpenGL projects!**
 
-- 🌱 I’m currently learning **HTML and React.**
+- 🌱 I’ve recently learned **HTML and React.**
 
-- 💬 Ask me about **video game modding!**
+- 💬 Ask me anything about **video game modding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
