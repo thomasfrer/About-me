@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Thomas!</h1>
 <h3 align="center">A motivated Software Engineering student from Minnesota.</h3>
 
-- 🔭 I’m currently working on **C++ and OpenGL projects!**
+- 🔭 I’m currently working on **React and JavaScript projects!**
 
-- 🌱 I’ve recently learned **HTML and React.**
+- 🌱 I’ve recently been learning **OpenGL with C++.**
 
 - 💬 Ask me anything about **video game modding!**
 
