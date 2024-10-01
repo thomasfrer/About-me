@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas!</h1>
+<h1 align="center">Hello, I'm Thomas!</h1>
 <h3 align="center">A motivated Software Engineering student from Minnesota.</h3>
 
 - 🔭 I’m currently working on **C++ and OpenGL projects!**
